@@ -1,4 +1,3 @@
-# Write your solution here
 ##here we have use input for row and column. we need to check whether the values are valid or not. If not
 ##return False then check for whether the gameboard is empty or not if empty place that replace that empty 
 ##element by the piece and then return true and then return the list and atlast return False if element is
