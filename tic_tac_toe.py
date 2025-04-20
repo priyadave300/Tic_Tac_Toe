@@ -12,9 +12,6 @@ def play_turn(game_board: list, x: int, y: int, piece: str):
     else:
         return False
 
-
-
-
 if __name__ == "__main__":
     game_board = [["", "", ""], ["", "", ""], ["", "", ""]]
     print(play_turn(game_board, 0, 0, "X"))
